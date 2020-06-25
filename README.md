@@ -1,4 +1,7 @@
-# hikyaku2
+# Flappy stork
+
+Is a simple game made in few hours to experiment with flame engine and flutter. 
+This game was made in order to deliver a very special message to my relative :)
 
 A new Flutter project.
 
